@@ -1,5 +1,7 @@
 # Изучение spring integration
 
+[Docs spring-integration](https://docs.spring.io/spring-integration/reference/html/index.html)
+
 ## Легенда
 
 ### Дано
